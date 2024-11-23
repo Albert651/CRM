@@ -16,10 +16,10 @@
       "APP_URL": "https://your-domain.vercel.app",
       "DB_CONNECTION": "mysql",
       "DB_HOST": "db",
-      "DB_PORT": "@db_port",
-      "DB_DATABASE": "@db_database",
-      "DB_USERNAME": "@db_username",
-      "DB_PASSWORD": "@db_password"
+      "DB_PORT": "3306",
+      "DB_DATABASE": "mydb",
+      "DB_USERNAME": "root",
+      "DB_PASSWORD": "password"
     }
   }
   
